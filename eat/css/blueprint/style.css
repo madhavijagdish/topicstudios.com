@@ -1,0 +1,77 @@
+html { min-height: 100%; margin-bottom: 1px; overflow: -moz-scrollbars-vertical; } 
+
+.headline{
+color:#333;
+font:normal 18px georgia;
+line-height:28px;
+}
+
+.headline-large{
+color:#652647;
+font:normal 22px georgia;
+line-height:30px;
+}
+
+
+.headline-med{
+color:#666;
+font:normal 16px georgia;
+line-height:26px;
+}
+
+.headline-med2{
+color:#660;
+font:normal 16px georgia;
+line-height:26px;
+text-decoration:none;
+}
+
+.headline-med3{
+color:#652647;
+font:normal 15px georgia;
+line-height:36px;
+text-decoration:none;
+}
+
+.headline-med4{
+color:#652647;
+font:normal 16px georgia;
+line-height:26px;
+text-decoration:none;
+}
+
+.headline-small{
+color:#666;
+font:normal 14px georgia;
+line-height:26px;
+text-decoration:none;
+}
+
+.headline-small-o{
+color:#666;
+font:normal 14px georgia;
+line-height:24px;
+text-decoration:none;
+}
+
+.headline-small2{
+color:#333;
+font:normal 14px georgia;
+line-height:4px;
+}
+
+.headline-xsmall{
+color:#333;
+font:normal 11px georgia;
+line-height:21px;
+}
+
+
+.fancy {
+  font-family: "sorts-mill-goudy-1","sorts-mill-goudy-2", "serif";
+  color:#666;
+}
+
+@charset "UTF-8";
+/* CSS Document */
+

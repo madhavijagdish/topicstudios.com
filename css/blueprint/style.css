@@ -1,0 +1,98 @@
+html { min-height: 100%; margin-bottom: 1px; overflow: -moz-scrollbars-vertical; } 
+
+a:link {
+	color: #333;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333;
+}
+a:hover {
+	text-decoration: none;
+	color: #F60;
+}
+a:active {
+	text-decoration: none;
+}
+
+body{
+	padding: 0;
+ 	margin: 0;
+  	background:#F4F4F4;
+  	width: 100%;
+}
+
+.container{
+	background:url('../../images/bkg4b.jpg') repeat-y center top;
+}
+
+#sidebar{
+	margin:0 0 0 12px;
+}
+
+#sidebar p{
+	font-size:16px;
+	color:#666;
+	letter-spacing: 2px;
+	text-transform:uppercase;
+	padding:0 0 0 10px;
+	line-height:18px;
+}
+
+#logo{
+	float:right;
+	margin:0 3px 0 0;
+}
+
+.tk-sorts-mill-goudy{
+font:normal 24px Georgia, "Times New Roman", Times, serif;
+line-height:36px;
+font-style: italic;
+font-weight:100;
+}
+
+.headline{
+color:#333;
+font:normal 18px georgia;
+line-height:28px;
+}
+
+
+.headline-small{
+color:#333;
+font:normal 14px georgia;
+line-height:24px;
+text-decoration:none;
+}
+
+.small-ital{
+color:#999;
+font:Georgia, "Times New Roman", Times, serif;
+font-style:italic;
+font-size:14px;
+line-height:24px;
+text-decoration:none;
+}
+
+.headline-xsmall{
+color:#333;
+font:normal 11px georgia;
+line-height:21px;
+}
+
+.headline-med{
+color:#666;
+font:normal 16px georgia;
+line-height:26px;
+}
+
+
+.fancy {
+  font-family: "sorts-mill-goudy-1","sorts-mill-goudy-2", "serif";
+  color:#666;
+}
+
+@charset "UTF-8";
+/* CSS Document */
+
